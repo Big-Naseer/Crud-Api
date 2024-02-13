@@ -1,0 +1,22 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "Crud Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodeman index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Big_Naseer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "mongose": "^0.0.2-security",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.0.3"
+  }
+}
